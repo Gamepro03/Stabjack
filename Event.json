@@ -1,7 +1,8 @@
-{"Active": false,
+{"Active": true,
 "Name": "Generate to Destroy (TEST)",
 "Description": "",
 "LoadRunAchievements": [ ],
 "LoadItems": [117, 9, 122],
 "ChangeBackground": 0,
+"NightmareLevel": 1,
 "MinVersionData": "0.37.26"}
