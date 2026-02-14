@@ -1,7 +1,7 @@
 {"Active": true,
-"Name": "TEST EVENT PLEASE IGNORE",
-"Description": "Start with Lockpick Item (TEST)",
+"Name": "Generate to Destroy (TEST)",
+"Description": "",
 "LoadRunAchievements": [ ],
-"LoadItems": [106],
+"LoadItems": [117, 9, 122],
 "ChangeBackground": 0,
 "MinVersionData": "0.37.26"}
