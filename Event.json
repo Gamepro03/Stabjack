@@ -1,3 +1,7 @@
-{"Active": false,
-"Name": "TEST EVENT, PLEASE IGNORE",
-"Load": [ 13 ]}
+{"Active": true,
+"Name": "All or Nothing (TEST)",
+"Description": "Start with Lockpick Item (TEST)",
+"LoadRunAchievements": [ ],
+"LoadItems": [106],
+"ChangeBackground": 0,
+"MinVersionData": "0.37.26"}
