@@ -1,6 +1,6 @@
-{"Active": false,
+{"Active": true,
 "Name": "Generate to Destroy (TEST)",
-"Description": "",
+"Description": "Happy Event! Start with special things and stuff to do stuff and things.",
 "LoadRunAchievements": [ ],
 "LoadItems": [117, 9, 122],
 "ChangeBackground": 0,
