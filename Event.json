@@ -1,8 +1,103 @@
-{"Active": false,
-"Name": "Generate to Destroy (TEST)",
+{"Active": true,
+"Name": "(TEST)",
 "Description": "Happy Event! Start with special things and stuff to do stuff and things.",
 "LoadRunAchievements": [ ],
-"LoadItems": [117, 9, 122],
+"LoadItems": [ ],
 "ChangeBackground": 0,
-"NightmareLevel": 1,
-"MinVersionData": "0.37.26"}
+"NightmareLevel": 0,
+"MinVersionData": "0.38.0.Playtest",
+"Deck1:"[
+        {
+            "Value": 4,
+            "Suit": 4,
+            "Background": 1,
+            "Abilities": [],
+            "StatusList": []
+        },
+        {
+            "Value": 5,
+            "Suit": 2,
+            "Background": 1,
+            "Abilities": [],
+            "StatusList": []
+        },
+        {
+            "Value": 12,
+            "Suit": 3,
+            "Background": 1,
+            "Abilities": [
+                2
+            ],
+            "StatusList": []
+        },
+        {
+            "Value": 12,
+            "Suit": 4,
+            "Background": 1,
+            "Abilities": [],
+            "StatusList": []
+        },
+        {
+            "Value": 4,
+            "Suit": 3,
+            "Background": 1,
+            "Abilities": [],
+            "StatusList": []
+        },
+        {
+            "Value": 6,
+            "Suit": 4,
+            "Background": 1,
+            "Abilities": [
+                1
+            ],
+            "StatusList": []
+        },
+        {
+            "Value": 6,
+            "Suit": 3,
+            "Background": 1,
+            "Abilities": [],
+            "StatusList": []
+        },
+        {
+            "Value": 8,
+            "Suit": 1,
+            "Background": 1,
+            "Abilities": [
+                2
+            ],
+            "StatusList": []
+        },
+        {
+            "Value": 7,
+            "Suit": 2,
+            "Background": 1,
+            "Abilities": [],
+            "StatusList": []
+        },
+        {
+            "Value": 10,
+            "Suit": 1,
+            "Background": 1,
+            "Abilities": [
+                1
+            ],
+            "StatusList": []
+        }
+    ],
+"Deck1KnifeSprite": 0,
+"Deck1KnifePFP": 0,
+"Deck1KnifeBackSprite": 0,
+"Deck1KnifeAnimData" : 0,
+"Deck2": [],
+"Deck2KnifeSprite": 0,
+"Deck2KnifePFP": 0,
+"Deck2KnifeBackSprite": 0,
+"Deck2KnifeAnimData" : 0,
+"Deck3": [],
+"Deck3KnifeSprite": 0,
+"Deck3KnifePFP": 0,
+"Deck3KnifeBackSprite": 0,
+"Deck3KnifeAnimData" : 0
+}
