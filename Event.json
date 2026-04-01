@@ -86,10 +86,10 @@
             "StatusList": [6]
         }
     ],
-"Deck1KnifeSprite": 4,
-"Deck1KnifePFP": 4,
-"Deck1KnifeBackSprite": 4,
-"Deck1KnifeAnimData" : 4,
+"Deck1KnifeSprite": 5,
+"Deck1KnifePFP": 5,
+"Deck1KnifeBackSprite": 5,
+"Deck1KnifeAnimData" : 5,
 "Deck2": [],
 "Deck2KnifeSprite": 0,
 "Deck2KnifePFP": 0,
