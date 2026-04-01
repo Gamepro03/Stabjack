@@ -1,0 +1,103 @@
+{"Active": true,
+"Name": "[Event] A Little Snacking",
+"Description": "Get a peek at the Endless Game mode while trying a very different playstyle right from the beginning..?",
+"LoadRunAchievements": [ ],
+"LoadItems": [ 62, 127, 51 ],
+"ChangeBackground": 0,
+"NightmareLevel": 0,
+"MinVersionData": "0.38.0.Playtest",
+"Deck1":[
+        {
+            "Value": 4,
+            "Suit": 4,
+            "Background": 5,
+            "Abilities": [1],
+            "StatusList": [6]
+        },
+        {
+            "Value": 5,
+            "Suit": 2,
+            "Background": 5,
+            "Abilities": [],
+            "StatusList": [6]
+        },
+        {
+            "Value": 12,
+            "Suit": 3,
+            "Background": 5,
+            "Abilities": [
+                2
+            ],
+            "StatusList": [6]
+        },
+        {
+            "Value": 12,
+            "Suit": 4,
+            "Background": 5,
+            "Abilities": [],
+            "StatusList": [6]
+        },
+        {
+            "Value": 4,
+            "Suit": 3,
+            "Background": 5,
+            "Abilities": [1],
+            "StatusList": [6]
+        },
+        {
+            "Value": 6,
+            "Suit": 4,
+            "Background": 5,
+            "Abilities": [
+                1
+            ],
+            "StatusList": [6]
+        },
+        {
+            "Value": 6,
+            "Suit": 3,
+            "Background": 5,
+            "Abilities": [],
+            "StatusList": [6]
+        },
+        {
+            "Value": 8,
+            "Suit": 1,
+            "Background": 5,
+            "Abilities": [
+                2
+            ],
+            "StatusList": [6]
+        },
+        {
+            "Value": 7,
+            "Suit": 2,
+            "Background": 5,
+            "Abilities": [1],
+            "StatusList": [6]
+        },
+        {
+            "Value": 10,
+            "Suit": 1,
+            "Background": 5,
+            "Abilities": [
+                1
+            ],
+            "StatusList": [6]
+        }
+    ],
+"Deck1KnifeSprite": 4,
+"Deck1KnifePFP": 4,
+"Deck1KnifeBackSprite": 4,
+"Deck1KnifeAnimData" : 4,
+"Deck2": [],
+"Deck2KnifeSprite": 0,
+"Deck2KnifePFP": 0,
+"Deck2KnifeBackSprite": 0,
+"Deck2KnifeAnimData" : 0,
+"Deck3": [],
+"Deck3KnifeSprite": 0,
+"Deck3KnifePFP": 0,
+"Deck3KnifeBackSprite": 0,
+"Deck3KnifeAnimData" : 0
+}
