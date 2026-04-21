@@ -1,16 +1,95 @@
-{"Active": false,
-"Name": "[Event] Testing",
-"Description": "Test event, please ignore :)",
+{"Active": true,
+"Name": "[Event] Full Metal",
+"Description": "Get a peek at the Endless Game Mode while trying a unique playstyle from the start.",
 "LoadRunAchievements": [ ],
-"LoadItems": [ ],
+"LoadItems": [ 137 ],
 "ChangeBackground": 0,
 "NightmareLevel": 0,
 "MinVersionData": "0.38.0.Playtest",
-"Deck1":[],
-"Deck1KnifeSprite": 0,
-"Deck1KnifePFP": 0,
-"Deck1KnifeBackSprite": 0,
-"Deck1KnifeAnimData" : 0,
+"Deck1":[
+        {
+            "Value": 4,
+            "Suit": 4,
+            "Background": 8,
+            "Abilities": [],
+            "StatusList": []
+        },
+        {
+            "Value": 5,
+            "Suit": 2,
+            "Background": 8,
+            "Abilities": [],
+            "StatusList": []
+        },
+        {
+            "Value": 12,
+            "Suit": 3,
+            "Background": 8,
+            "Abilities": [
+                2
+            ],
+            "StatusList": []
+        },
+        {
+            "Value": 12,
+            "Suit": 4,
+            "Background": 8,
+            "Abilities": [],
+            "StatusList": []
+        },
+        {
+            "Value": 4,
+            "Suit": 3,
+            "Background": 8,
+            "Abilities": [],
+            "StatusList": []
+        },
+        {
+            "Value": 6,
+            "Suit": 4,
+            "Background": 8,
+            "Abilities": [
+                1
+            ],
+            "StatusList": []
+        },
+        {
+            "Value": 6,
+            "Suit": 3,
+            "Background": 8,
+            "Abilities": [],
+            "StatusList": []
+        },
+        {
+            "Value": 8,
+            "Suit": 1,
+            "Background": 8,
+            "Abilities": [
+                2
+            ],
+            "StatusList": []
+        },
+        {
+            "Value": 7,
+            "Suit": 2,
+            "Background": 8,
+            "Abilities": [],
+            "StatusList": []
+        },
+        {
+            "Value": 10,
+            "Suit": 1,
+            "Background": 8,
+            "Abilities": [
+                1
+            ],
+            "StatusList": []
+        }
+    ],
+"Deck1KnifeSprite": 2,
+"Deck1KnifePFP": 2,
+"Deck1KnifeBackSprite": 2,
+"Deck1KnifeAnimData" : 2,
 "Deck2": [],
 "Deck2KnifeSprite": 0,
 "Deck2KnifePFP": 0,
