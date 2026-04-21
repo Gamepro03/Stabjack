@@ -8,80 +8,89 @@
 "MinVersionData": "0.38.0.Playtest",
 "Deck1":[
         {
+            "Value": 2,
+            "Suit": 1,
+            "Background": 8,
+            "Abilities": [
+                8
+            ],
+            "StatusList": []
+        },
+        {
             "Value": 4,
             "Suit": 4,
+            "Background": 8,
+            "Abilities": [
+                3
+            ],
+            "StatusList": []
+        },
+        {
+            "Value": 4,
+            "Suit": 3,
             "Background": 8,
             "Abilities": [],
             "StatusList": []
         },
         {
-            "Value": 5,
+            "Value": 6,
             "Suit": 2,
             "Background": 8,
-            "Abilities": [],
-            "StatusList": []
-        },
-        {
-            "Value": 12,
-            "Suit": 3,
-            "Background": 8,
             "Abilities": [
-                2
+                2,
+                3
             ],
-            "StatusList": []
-        },
-        {
-            "Value": 12,
-            "Suit": 4,
-            "Background": 8,
-            "Abilities": [],
-            "StatusList": []
-        },
-        {
-            "Value": 4,
-            "Suit": 3,
-            "Background": 8,
-            "Abilities": [],
-            "StatusList": []
-        },
-        {
-            "Value": 6,
-            "Suit": 4,
-            "Background": 8,
-            "Abilities": [
-                1
-            ],
-            "StatusList": []
-        },
-        {
-            "Value": 6,
-            "Suit": 3,
-            "Background": 8,
-            "Abilities": [],
             "StatusList": []
         },
         {
             "Value": 8,
-            "Suit": 1,
+            "Suit": 2,
             "Background": 8,
             "Abilities": [
-                2
+                3
             ],
             "StatusList": []
         },
         {
-            "Value": 7,
+            "Value": 9,
+            "Suit": 1,
+            "Background": 8,
+            "Abilities": [
+                7
+            ],
+            "StatusList": []
+        },
+        {
+            "Value": 11,
             "Suit": 2,
+            "Background": 8,
+            "Abilities": [
+                7
+            ],
+            "StatusList": []
+        },
+        {
+            "Value": 11,
+            "Suit": 3,
             "Background": 8,
             "Abilities": [],
             "StatusList": []
         },
         {
-            "Value": 10,
+            "Value": 12,
+            "Suit": 4,
+            "Background": 8,
+            "Abilities": [
+                8
+            ],
+            "StatusList": []
+        },
+        {
+            "Value": 13,
             "Suit": 1,
             "Background": 8,
             "Abilities": [
-                1
+                2
             ],
             "StatusList": []
         }
