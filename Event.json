@@ -1,95 +1,16 @@
-{"Active": false,
-"Name": "[Event] We Do A Little Snacking",
-"Description": "Get a peek at the Endless Game mode with a unique start for this April 1st date! ",
+{"Active": true,
+"Name": "[Event] Testing",
+"Description": "Test event, please ignore :)",
 "LoadRunAchievements": [ ],
-"LoadItems": [ 62, 127, 51 ],
+"LoadItems": [ ],
 "ChangeBackground": 0,
 "NightmareLevel": 0,
 "MinVersionData": "0.38.0.Playtest",
-"Deck1":[
-        {
-            "Value": 4,
-            "Suit": 4,
-            "Background": 5,
-            "Abilities": [1],
-            "StatusList": [6]
-        },
-        {
-            "Value": 5,
-            "Suit": 2,
-            "Background": 5,
-            "Abilities": [],
-            "StatusList": [6]
-        },
-        {
-            "Value": 12,
-            "Suit": 3,
-            "Background": 5,
-            "Abilities": [
-                2
-            ],
-            "StatusList": [6]
-        },
-        {
-            "Value": 12,
-            "Suit": 4,
-            "Background": 5,
-            "Abilities": [],
-            "StatusList": [6]
-        },
-        {
-            "Value": 4,
-            "Suit": 3,
-            "Background": 5,
-            "Abilities": [1],
-            "StatusList": [6]
-        },
-        {
-            "Value": 6,
-            "Suit": 4,
-            "Background": 5,
-            "Abilities": [
-                1
-            ],
-            "StatusList": [6]
-        },
-        {
-            "Value": 6,
-            "Suit": 3,
-            "Background": 5,
-            "Abilities": [],
-            "StatusList": [6]
-        },
-        {
-            "Value": 8,
-            "Suit": 1,
-            "Background": 5,
-            "Abilities": [
-                2
-            ],
-            "StatusList": [6]
-        },
-        {
-            "Value": 7,
-            "Suit": 2,
-            "Background": 5,
-            "Abilities": [1],
-            "StatusList": [6]
-        },
-        {
-            "Value": 10,
-            "Suit": 1,
-            "Background": 5,
-            "Abilities": [
-                1
-            ],
-            "StatusList": [6]
-        }
-    ],
-"Deck1KnifeSprite": 5,
-"Deck1KnifePFP": 5,
-"Deck1KnifeBackSprite": 5,
-"Deck1KnifeAnimData" : 5,
+"Deck1":[],
+"Deck1KnifeSprite": 0,
+"Deck1KnifePFP": 0,
+"Deck1KnifeBackSprite": 0,
+"Deck1KnifeAnimData" : 0,
 "Deck2": [],
 "Deck2KnifeSprite": 0,
 "Deck2KnifePFP": 0,
