@@ -5,7 +5,7 @@
 "LoadItems": [ 137 ],
 "ChangeBackground": 0,
 "NightmareLevel": 0,
-"MinVersionData": "0.38.0.Playtest",
+"MinVersionData": "0.38.0",
 "Deck1":[
         {
             "Value": 2,
