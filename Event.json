@@ -1,104 +1,95 @@
 {"Active": true,
-"Name": "[Event] Full Metal",
-"Description": "Get a peek at the Endless Game Mode while trying a unique playstyle from the start.",
+"Name": "[Event] We Do A Little Snacking",
+"Description": "Get a peek at the Endless Game mode with a unique start for this April 1st date! ",
 "LoadRunAchievements": [ ],
-"LoadItems": [ 137 ],
+"LoadItems": [ 62, 127, 51 ],
 "ChangeBackground": 0,
 "NightmareLevel": 0,
 "MinVersionData": "0.38.2",
 "Deck1":[
         {
-            "Value": 2,
-            "Suit": 1,
-            "Background": 8,
-            "Abilities": [
-                8
-            ],
-            "StatusList": []
-        },
-        {
             "Value": 4,
             "Suit": 4,
-            "Background": 8,
-            "Abilities": [
-                3
-            ],
-            "StatusList": []
+            "Background": 5,
+            "Abilities": [1],
+            "StatusList": [6]
         },
         {
-            "Value": 4,
-            "Suit": 3,
-            "Background": 8,
+            "Value": 5,
+            "Suit": 2,
+            "Background": 5,
             "Abilities": [],
-            "StatusList": []
+            "StatusList": [6]
         },
         {
-            "Value": 6,
-            "Suit": 2,
-            "Background": 8,
-            "Abilities": [
-                2,
-                3
-            ],
-            "StatusList": []
-        },
-        {
-            "Value": 8,
-            "Suit": 2,
-            "Background": 8,
-            "Abilities": [
-                3
-            ],
-            "StatusList": []
-        },
-        {
-            "Value": 9,
-            "Suit": 1,
-            "Background": 8,
-            "Abilities": [
-                7
-            ],
-            "StatusList": []
-        },
-        {
-            "Value": 11,
-            "Suit": 2,
-            "Background": 8,
-            "Abilities": [
-                7
-            ],
-            "StatusList": []
-        },
-        {
-            "Value": 11,
+            "Value": 12,
             "Suit": 3,
-            "Background": 8,
-            "Abilities": [],
-            "StatusList": []
+            "Background": 5,
+            "Abilities": [
+                2
+            ],
+            "StatusList": [6]
         },
         {
             "Value": 12,
             "Suit": 4,
-            "Background": 8,
-            "Abilities": [
-                8
-            ],
-            "StatusList": []
+            "Background": 5,
+            "Abilities": [],
+            "StatusList": [6]
         },
         {
-            "Value": 13,
+            "Value": 4,
+            "Suit": 3,
+            "Background": 5,
+            "Abilities": [1],
+            "StatusList": [6]
+        },
+        {
+            "Value": 6,
+            "Suit": 4,
+            "Background": 5,
+            "Abilities": [
+                1
+            ],
+            "StatusList": [6]
+        },
+        {
+            "Value": 6,
+            "Suit": 3,
+            "Background": 5,
+            "Abilities": [],
+            "StatusList": [6]
+        },
+        {
+            "Value": 8,
             "Suit": 1,
-            "Background": 8,
+            "Background": 5,
             "Abilities": [
                 2
             ],
-            "StatusList": []
+            "StatusList": [6]
+        },
+        {
+            "Value": 7,
+            "Suit": 2,
+            "Background": 5,
+            "Abilities": [1],
+            "StatusList": [6]
+        },
+        {
+            "Value": 10,
+            "Suit": 1,
+            "Background": 5,
+            "Abilities": [
+                1
+            ],
+            "StatusList": [6]
         }
     ],
-"Deck1KnifeSprite": 2,
-"Deck1KnifePFP": 2,
-"Deck1KnifeBackSprite": 2,
-"Deck1KnifeAnimData" : 2,
+"Deck1KnifeSprite": 5,
+"Deck1KnifePFP": 5,
+"Deck1KnifeBackSprite": 5,
+"Deck1KnifeAnimData" : 5,
 "Deck2": [],
 "Deck2KnifeSprite": 0,
 "Deck2KnifePFP": 0,
